@@ -2,9 +2,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
 
 :root{
+--blue: #3399ff;
+--background:#66ffff;
 
+html {
+    font-size: 70rem;
 }
 
-*{
-
-}
